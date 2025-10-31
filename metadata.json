@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Text-Verbesserer",
+  "description": "Eine Webanwendung, die Gemini API nutzt, um Texte zu verbessern. Benutzer können Texte zusammenfassen, erweitern, die Grammatik korrigieren oder den Ton ändern.",
+  "requestFramePermissions": []
+}
